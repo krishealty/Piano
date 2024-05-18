@@ -1,2 +1,1 @@
-A Piano Playing Website just with Binary twist.
-Made with Tone.js
+A Piano Playing Website just with Binary keys, made with Tone.js
